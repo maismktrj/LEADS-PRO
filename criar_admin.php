@@ -1,9 +1,9 @@
 <?php
 require 'conexao.php';
 
-$nome = "fabiobarros";
-$email = "maismktrj@gmail.com";
-$senha = "Osc4rm1gu3l@!"; // Troque pela senha que desejar
+$nome = "NOME";
+$email = "EMAIL";
+$senha = "SENHA"; // Troque pela senha que desejar
 
 // Criptografa a senha com segurança máxima
 $hash = password_hash($senha, PASSWORD_DEFAULT);
