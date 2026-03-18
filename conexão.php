@@ -2,9 +2,9 @@
 // conexao.php
 
 $host = 'localhost'; // Geralmente 'localhost' se o banco estiver no mesmo servidor
-$dbname = 'mais4240_analisador'; // O nome da base de dados que criámos
-$user = 'mais4240_analisador'; // O seu utilizador do MySQL (mude no servidor de produção)
-$pass = 'Mktrj001@!pu'; // A sua palavra-passe do MySQL (mude no servidor de produção)
+$dbname = 'BANCO'; // O nome da base de dados que criámos
+$user = 'USUÁRIO'; // O seu utilizador do MySQL (mude no servidor de produção)
+$pass = 'SENHA'; // A sua palavra-passe do MySQL (mude no servidor de produção)
 
 try {
     // Cria a ligação usando PDO
