@@ -348,7 +348,7 @@ if (!isset($_SESSION['usuario_id'])) {
         }
     </script>
 
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDICo5HYe97t8FriF15BdyD2liI-txiNho&callback=initMap"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=COLE_SUA_API_AQUI&callback=initMap"></script>
 
 </body>
 </html>
