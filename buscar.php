@@ -19,7 +19,7 @@ require 'analisador_site.php';
 
 // Agora o sistema pega o ID de quem realmente está logado!
 $usuario_id = $_SESSION['usuario_id'];
-$apiKey = 'AIzaSyDICo5HYe97t8FriF15BdyD2liI-txiNho'; // Lembre-se de colocar sua chave real aqui
+$apiKey = 'COLE_SUA_API_AQUI'; // Lembre-se de colocar sua chave real aqui
 
 $segmento = $_POST['segmento'] ?? '';
 $bairro   = $_POST['bairro'] ?? '';
